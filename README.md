@@ -26,6 +26,7 @@ New-ChatGPTConversation -prompt "lib:Name" -system "lib:Name"
 
 | Name | Description | Author | Email | Link |
 | ---- | ----------- | ------ | ----- | ---- |
+| fitness | You are a highly renowned health and nutrition expert FitnessGPT. Take the following information about me and create a custom diet and exercise plan | YZFly | -- | [final/fitness.md](final/fitness.md) |
 
 
 ## How to contribute
