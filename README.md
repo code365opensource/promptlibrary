@@ -1,6 +1,6 @@
 # PromptLibrary 
 
-![Prompts](https://img.shields.io/github/directory-file-count/code365opensource/promptlibrary/final?label=Prompts)
+![Prompts](https://img.shields.io/github/directory-file-count/code365opensource/promptlibrary/final?label=Prompts) ![](https://img.shields.io/badge/Users-1000-pink) ![](https://img.shields.io/badge/Downloads-1000-green) ![](https://img.shields.io/badge/Contributors-1-red)
 
 <!-- https://shields.io/badges/static-badge  -->
 
