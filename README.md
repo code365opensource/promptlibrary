@@ -1,5 +1,6 @@
 # promptlibrary
 
+<!-- https://shields.io/badges/static-badge  -->
 
 | Title | Description | Author | Email | Datetime | Link |
 |-------|-------------|--------|-------|----------|------|
