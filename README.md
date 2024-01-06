@@ -12,16 +12,16 @@ This library contains community contributed prompts, which can be used with the 
 
 All the approved prompts are available in the [final](final/) folder, you can get the name from below table.
 
-To use the prompt in your script, copy the `Name` below and add a `lib:` prefix. For example, if you want to use it as the prompt of `New-ChatGPTConversation` cmdlet, you can use the following code:
+To use the prompt in your script, copy the `Name` below and add a `lib:` prefix. For example, if you want to use `fitness` as the prompt for `New-ChatGPTConversation` cmdlet, you can use the following code:
 
 ```powershell
-New-ChatGPTConversation -prompt "lib:Name"
+New-ChatGPTConversation -prompt "lib:fitness"
 ```
 
 Please note that the prompt can be used in system prompt and user prompt, for example:
 
 ```powershell
-New-ChatGPTConversation -prompt "lib:Name" -system "lib:Name"
+New-ChatGPTConversation -prompt "lib:fitness" -system "lib:fitness"
 ```
 
 | Name | Description | Author | Email | Link |
