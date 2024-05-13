@@ -65,7 +65,7 @@ You can use the following template to create an interview report for the role of
 
 ```markdown
 # Interview Report: [Candidate Name] 
-> Interviewer: [Interviewer Name], on {{currenttime}}
+> Interviewer: [Interviewer Name], on {{currentTime}}
 
 ## Overall
 
