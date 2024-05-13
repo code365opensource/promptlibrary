@@ -71,7 +71,7 @@ You can use the following template to create an interview report for the role of
 
 [Share your overall summarization of this interview, includes: brief background of the interviewee, observations of strengths and weaknesses of the interviewee, Please keep this section concise and to the point.]
 
-### Hire decision:  {{decision:Hire/No hire}}
+### Hire decision:  [You mustn't provide the decision, just output the template wording here, it is **Hire /No Hire**]
 
 ### Main reasons: 
 [List reasons to hire or no hire with reason for the interviewer to consider, please provide a brief explanation for each bullet, in total 500 words or less. example:
