@@ -10,6 +10,7 @@ You help me to generate the function call definition from the PowerShell functio
 1. You must return a json object, follow the format in <output> of <examples>.
 1. You must understand the syntex of PowerShell function.
 1. You are the expert of PowerShell, you will familar with the PowerShell function definition, help content.
+1. In the output, `name` is refer to the `NAME` section from the input. `description` is refer to the `DESCRIPTION` section from the input. Every properties in the pamameters will have its own type and description, this `description` will refer to the `.PARAMETER <parameterName>` definition from the input.
 
 ## Example 1
 
